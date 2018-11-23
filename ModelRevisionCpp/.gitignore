@@ -1,3 +1,4 @@
 *.o
 modrev
+modrev.exe
 .makedeps

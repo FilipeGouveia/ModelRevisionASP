@@ -313,7 +313,9 @@ std::vector<Function*> ASPHelper::getFunctionReplace(Function* function, bool is
     function_cmd.append("HasseD2.lp ");
     //TODO pur files in conf and handle powerset
     function_cmd.append(functions_folder);
-    function_cmd.append("facts/powerSet");
+    function_cmd.append("facts");
+    function_cmd.append(Configuration::getValue("Path_Separator"));
+    function_cmd.append("powerSet");
     int el = function->getNumberOfRegulators();
     if(el < 10)
     {

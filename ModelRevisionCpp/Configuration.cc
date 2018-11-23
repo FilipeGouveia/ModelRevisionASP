@@ -17,6 +17,7 @@ void Configuration::parseConfig() {
     _configMap["ASP_solver"] = "./../ASP/bin-Darwin/clingo";
     _configMap["ASP_CC_SS"] =  "../ASP/ConsistencyCheck/core-ss.lp";
     _configMap["ASP_Functions"] = "../ASP/Functions/";
+    _configMap["Path_Separator"] = "/";
 
     //read new values from config file
 
