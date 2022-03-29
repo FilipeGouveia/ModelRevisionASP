@@ -3,7 +3,7 @@
 <h3>Warning</h3>
 <h5>
 This site is no longer receiving updates.
-</br>
+<br>
 Please visit the <a href="https://filipegouveia.github.io/ModRev">new website</a> !!!
 </h5>
 </div>
