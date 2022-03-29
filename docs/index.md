@@ -1,9 +1,9 @@
-<meta http-equiv="refresh" content="1;url=https://filipegouveia.github.io/ModRev" />
+<!--<meta http-equiv="refresh" content="30;url=https://filipegouveia.github.io/ModRev" />-->
 <div class=warning>
 <h3>Warning</h3>
 <h5>
 This site is no longer receiving updates.
-
+</br>
 Please visit the <a href="https://filipegouveia.github.io/ModRev">new website</a> !!!
 </h5>
 </div>
