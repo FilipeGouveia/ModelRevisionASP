@@ -1,9 +1,9 @@
 <div class=warning>
 <h3>Warning</h3>
-<h4>
+<h5>
 <p>This site is no longer receiving updates.</p>
 <p>Please visit the <a href="https://filipegouveia.github.io/ModRev">new website</a> !!!</p>
-</h4>
+</h5>
 </div>
 
 
