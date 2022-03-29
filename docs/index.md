@@ -1,3 +1,10 @@
+<div class=warning>
+<h2>Warning</h2>
+This site is no longer receiving updates.
+Please visit: https://filipegouveia.github.io/ModRev 
+</div>
+
+
 ModRev is a command line tool to revise Boolean logical models of biological regulatory networks.
 
 This tool was developed for *UNIX* and *MacOSX* systems.
