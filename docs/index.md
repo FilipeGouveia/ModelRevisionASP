@@ -4,7 +4,7 @@
 <h5>
 This site is no longer receiving updates.
 <br>
-Please visit the <a href="https://filipegouveia.github.io/ModRev">new website</a> !!!
+Please visit the <a href="https://filipegouveia.github.io/ModRev">updated website</a> !
 </h5>
 </div>
 
